@@ -4,6 +4,7 @@
 ## Command Line Tasks
 
 `npm install` -- Install npm dependecies
+
 `npm start` -- Runs localhost server
 
 ## Reference
