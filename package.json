@@ -1,0 +1,17 @@
+{
+  "name": "frontend_web_scraping",
+  "version": "0.0.1",
+  "description": "Web Scraping Example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Vanessa Martinez",
+  "license": "BSD",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "express": "^4.13.3",
+    "request": "^2.61.0"
+  }
+}

@@ -1,0 +1,13 @@
+.git
+.DS_Store
+.sass-cache
+node_modules/
+bower_components/
+npm-debug.log
+*.log
+tmp
+temp
+.idea
+dist/
+
+output.json
